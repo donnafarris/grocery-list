@@ -1,0 +1,36 @@
+body {
+  background-color: #3e3e47;
+  color: #ffffff;
+}
+h3 {
+  color: #e3f6fce3;
+  text-align: left;
+  font: italic 200% arial;
+}
+div {
+  background-color: #ffff3300;
+  color: #e6f4ff;
+  text-align: left;
+}
+li {
+    border: 3px inset;
+    list-style-type: none;
+    width: 300px;
+    height: 25px;
+}
+input {
+    display: inline-flex;
+    font: 90% arial;
+}
+label {
+    display: inline-flex;
+}
+button {
+    margin-bottom: 5px;
+    margin-right:2em;
+    margin-left:1em;
+    font: 90% arial;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 2px;
+}
